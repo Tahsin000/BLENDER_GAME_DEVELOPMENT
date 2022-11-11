@@ -21,7 +21,9 @@ HP USB 3.1 PENDRIVE</a></h2>
 </ul>
 </li>
 <li><strong>Model Blender File - <a href="https://github.com/Tahsin000/BLENDER_GAME_DEVELOPMENT/blob/master/HP%20USB%203.1%20PENDRIVE/Assets/examples/models/blender/HP%20USB%203.1%20PENDRIVE.blend?raw=true">Click ME</a></strong></li>
+  
 <li><strong>Model Preview - <a href="https://tahsin000.github.io/BLENDER_GAME_DEVELOPMENT/HP%20USB%203.1%20PENDRIVE/Assets/examples/webgl_loader_gltf_sheen.html">Click ME</a></strong></li>
+  <li><strong>Render image - <img src="https://raw.githubusercontent.com/Tahsin000/BLENDER_GAME_DEVELOPMENT/master/HP%20USB%203.1%20PENDRIVE/Assets/examples/IMG/IMG_1.png" height="250"> </strong></li>
 </ul>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
