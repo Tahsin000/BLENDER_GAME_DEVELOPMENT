@@ -21,6 +21,8 @@
 </li>
 <li><strong>Model Blender File - <a href="https://github.com/Tahsin000/BLENDER_GAME_DEVELOPMENT/blob/master/Symbiodent%20Toothpaste/Toothpaste1.blend?raw=true">Click ME</a></strong></li>
 <li><strong>Model Preview - <a href="https://tahsin000.github.io/BLENDER_GAME_DEVELOPMENT/Symbiodent%20Toothpaste/video.html">Click ME</a></strong></li>
+<li><strong>Model 3d view - <a href="https://tahsin000.github.io/BLENDER_GAME_DEVELOPMENT/Symbiodent%20Toothpaste/model%20view/Assets/examples/SYMBIODENT%20TOOTHPASTE.html">Click ME</a></strong></li>
+
 </ul>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
