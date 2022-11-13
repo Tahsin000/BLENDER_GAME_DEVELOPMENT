@@ -1,12 +1,5 @@
-<h2>please!! </h2>
-<h4>when you run this preset in VSCODE </h4>
 
-- first of all you go in this folder "GLTF/Assets/"
-- open this folder in VSCODE
-- open live server
-- then enjoy yourself
-
-<h2><a href="#">MODEL NAME</a></h2>
+<h2><a href="https://tahsin000.github.io/BLENDER_GAME_DEVELOPMENT/Symbiodent%20Toothpaste/model%20view/Assets/examples/SYMBIODENT%20TOOTHPASTE.html">Symbiodent Toothpaste</a></h2>
 <ul>
 <li><strong>Modeling takes time</strong>
 <ul>
@@ -27,8 +20,8 @@
 <li>3.5 h</li>
 </ul>
 </li>
-<li><strong>Model Blender File - <a href="#">Click ME</a></strong></li>
-<li><strong>Model Preview - <a href="#">Click ME</a></strong></li>
+<li><strong>Model Blender File - <a href="https://github.com/Tahsin000/BLENDER_GAME_DEVELOPMENT/raw/master/Symbiodent%20Toothpaste/model%20view/Assets/examples/models/Symbiodent%20Toothpaste.rar">Click ME</a></strong></li>
+<li><strong>Model view - <a href="https://tahsin000.github.io/BLENDER_GAME_DEVELOPMENT/Symbiodent%20Toothpaste/model%20view/Assets/examples/SYMBIODENT%20TOOTHPASTE.html">Click ME</a></strong></li>
 </ul>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
