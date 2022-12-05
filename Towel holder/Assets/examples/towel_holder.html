@@ -60,14 +60,16 @@
         const container = document.createElement("div");
         document.body.appendChild(container);
 
+        
+        
+        
         camera = new THREE.PerspectiveCamera(
-          60,
+          120,
           window.innerWidth / window.innerHeight,
-          0.25,
+          0.35,
           20
         );
-        camera.position.set(0, 10, 40);
-
+        camera.position.set(60, 30, 20);
         scene = new THREE.Scene();
 
         // model
